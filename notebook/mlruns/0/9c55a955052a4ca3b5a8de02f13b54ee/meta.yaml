@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yibabe/Desktop/10acadamyAMIweek-8-9/notebook/mlruns/0/9c55a955052a4ca3b5a8de02f13b54ee/artifacts
+end_time: 1729452248364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c55a955052a4ca3b5a8de02f13b54ee
+run_name: Logistic Regression - Fraud_Data
+run_uuid: 9c55a955052a4ca3b5a8de02f13b54ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729452206202
+status: 3
+tags: []
+user_id: Yibabe
