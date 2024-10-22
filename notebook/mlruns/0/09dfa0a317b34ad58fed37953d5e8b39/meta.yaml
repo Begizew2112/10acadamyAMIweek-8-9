@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yibabe/Desktop/10acadamyAMIweek-8-9/notebook/mlruns/0/09dfa0a317b34ad58fed37953d5e8b39/artifacts
+end_time: 1729603146805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09dfa0a317b34ad58fed37953d5e8b39
+run_name: Decision Tree - Fraud_Data
+run_uuid: 09dfa0a317b34ad58fed37953d5e8b39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729603146699
+status: 4
+tags: []
+user_id: Yibabe
