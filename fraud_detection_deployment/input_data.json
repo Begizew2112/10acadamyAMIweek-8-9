@@ -1,0 +1,16 @@
+{
+    "purchase_value": 100,
+    "age": 30,
+    "ip_int": 123456789,
+    "transaction_count_per_day": 2,
+    "time_diff": 5,
+    "hour_of_day": 15,
+    "day_of_week": 3,
+    "source_Direct": 1,
+    "source_SEO": 0,
+    "browser_FireFox": 0,
+    "browser_IE": 0,
+    "browser_Opera": 0,
+    "browser_Safari": 0,
+    "sex_M": 1
+}
