@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 nevn/
 data/
+requirements.txt/
+nevn/
